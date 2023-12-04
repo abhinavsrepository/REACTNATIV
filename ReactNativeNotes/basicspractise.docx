@@ -1,0 +1,24 @@
+api documentation best practises
+
+wirte good doc impact {jason harman }
+free==> documentation ---> 
+human -readable description of how developers will enables machines to communicate with each other
+`              1) PRODUCT documentation   
+            2)   Api documentation
+developer and non developer 
+1)internal vs external documentation
+internal => differcet authN/authZ patterns
+internal proprietary information and links 
+
+2)more polished design 
+=> focus on reasons to adopt
+
+customisation of better developer and user expereience 
+types of api documentation 
+
+*Refernce material ==> how to use the api 
+*Concepts => what do bunch of api end point do with buch of ther do 
+*
+
+=> responses requests
+ 
