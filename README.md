@@ -5,3 +5,4 @@ all the code related to react native will be published here
 <li> Food Delivery </li>
 <li> Leraning management</li>
 <li> Dating App</li>
+<li> tinder clone</li>
